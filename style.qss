@@ -1,0 +1,32 @@
+QWidget {
+    background-color: #a89c63;
+}
+
+QLabel {
+ color: #4c116b;
+ font: italic;
+ font-family: "Times New Roman";
+ font-size: 15px;
+}
+
+QPushButton {
+    background-color: #2ABf9E;
+}
+
+QLineEdit {
+ color: #31a83f;
+ font: oblique;
+ font-family: "Arial Narrow";
+ background-color: #0f4869;
+}
+
+QComboBox {
+ color: #c76928;
+}
+
+QCheckBox:checked{
+ color: blue;
+}
+QCheckBox:unchecked{
+ color: black;
+}
